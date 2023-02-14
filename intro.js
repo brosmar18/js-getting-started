@@ -1,12 +1,6 @@
-console.log("Hello World!");
-// console.log is often used to test code snippets and see results.
+// exercise 1.4
 
-// console.table(); Creates a table when the inputted data  an be presented as a table.
+let a = 10;
+// The variable a has a value of 10.
 
-// console.error(); Will log the inputted data, but with a styling that draws attention to the fact that it's an error.
-
-// Practice exercise 1.1
-
-console.log(10+4);
-
-console.log("Bryan Garduno Gonzalez");
+console.log(a); // this will print the value of a.
