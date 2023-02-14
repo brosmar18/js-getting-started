@@ -1,6 +1,5 @@
-// exercise 1.4
+console.log(Math.random());
 
-let a = 10;
-// The variable a has a value of 10.
+console.log(Math.random() * 100);
 
-console.log(a); // this will print the value of a.
+console.log(Math.floor(Math.random() * 100));
